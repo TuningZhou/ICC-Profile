@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Temporary and build scripts
+build_docs.py
+generate_profile_docs*.py
+*.tmp
+*.log
+
+# Editor and IDE directories
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
